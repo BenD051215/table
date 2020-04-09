@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+figure {
+    background-color: whitesmoke;
+}
+
+figcaption {
+    text-align: center;
+    font-size: large;
+}
+
+thead {
+    background-color: tomato;
+    color: whitesmoke;
+}
+
+tfoot {
+    background-color: tomato;
+    color: whitesmoke;
+}
